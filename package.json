@@ -65,7 +65,7 @@
   "dependencies": {
     "scrollparent": "^2.0.1",
     "vue-observe-visibility": "^0.4.3",
-    "vue-resize": "https://github.com/tibineagu/vue-resize#fix-redundant-notify"
+    "vue-resize": "https://github.com/tibineagu/vue-resize#fix-redundant-notify-built"
   },
   "browserslist": [
     "> 1%",

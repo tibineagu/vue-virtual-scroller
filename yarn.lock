@@ -2950,9 +2950,9 @@ vue-observe-visibility@^0.4.3:
   resolved "https://registry.yarnpkg.com/vue-observe-visibility/-/vue-observe-visibility-0.4.3.tgz#b2694a83c94b274f566e03a497df51540e2daedc"
   integrity sha512-YyyO3a5OUkgpmC0NEf+xWJR0jVdFWzVbKRDzUumOVMhfr3+jxXEycYNHCM3rEO5lcj3ZNJpDomZEYEx0Wqqh9A==
 
-"vue-resize@https://github.com/tibineagu/vue-resize#fix-redundant-notify":
+"vue-resize@https://github.com/tibineagu/vue-resize#fix-redundant-notify-built":
   version "0.4.4"
-  resolved "https://github.com/tibineagu/vue-resize#3a7ff076ded485d350d157cd7e148d952b416b87"
+  resolved "https://github.com/tibineagu/vue-resize#5d3e99151b3c617bd058665736661908205d551e"
 
 vue-template-compiler@^2.2.5:
   version "2.5.17"
